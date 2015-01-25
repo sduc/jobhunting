@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jappap</string>
+    <string name="title_all_app">All Applications</string>
+    <string name="title_open_app">Open Applicatons</string>
+    <string name="title_bookmarked_app">Bookmarked Applications</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
